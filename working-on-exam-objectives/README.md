@@ -8,11 +8,11 @@ description: 'https://training.elastic.co/exam/elastic-certified-engineer#object
 
 {% page-ref page="indexing-data/" %}
 
-{% page-ref page="queries.md" %}
+{% page-ref page="queries/" %}
 
-{% page-ref page="aggregations.md" %}
+{% page-ref page="aggregations/" %}
 
-{% page-ref page="mappings-and-text-analysis.md" %}
+{% page-ref page="mappings-and-text-analysis/" %}
 
 {% page-ref page="cluster-administration.md" %}
 
