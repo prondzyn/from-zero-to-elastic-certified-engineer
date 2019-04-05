@@ -35,5 +35,11 @@
     * [Define and use multi-fields with different data types and/or analyzers](working-on-exam-objectives/mappings-and-text-analysis/define-and-use-multi-fields-with-different-data-types-and-or-analyzers.md)
     * [Configure an index so that it properly maintains the relationships of nested arrays of objects](working-on-exam-objectives/mappings-and-text-analysis/configure-an-index-so-that-it-properly-maintains-the-relationships-of-nested-arrays-of-objects.md)
     * [Configure an index that implements a parent/child relationship](working-on-exam-objectives/mappings-and-text-analysis/configure-an-index-that-implements-a-parent-child-relationship.md)
-  * [Cluster Administration](working-on-exam-objectives/cluster-administration.md)
+  * [Cluster Administration](working-on-exam-objectives/cluster-administration/README.md)
+    * [Allocate the shards of an index to specific nodes based on a given set of requirements](working-on-exam-objectives/cluster-administration/allocate-the-shards-of-an-index-to-specific-nodes-based-on-a-given-set-of-requirements.md)
+    * [Configure shard allocation awareness and forced awareness for an index](working-on-exam-objectives/cluster-administration/configure-shard-allocation-awareness-and-forced-awareness-for-an-index.md)
+    * [Diagnose shard issues and repair a cluster’s health](working-on-exam-objectives/cluster-administration/diagnose-shard-issues-and-repair-a-clusters-health.md)
+    * [Backup and restore a cluster and/or specific indices](working-on-exam-objectives/cluster-administration/backup-and-restore-a-cluster-and-or-specific-indices.md)
+    * [Configure a cluster for use with a hot/warm architecture](working-on-exam-objectives/cluster-administration/configure-a-cluster-for-use-with-a-hot-warm-architecture.md)
+    * [Configure a cluster for cross cluster search](working-on-exam-objectives/cluster-administration/configure-a-cluster-for-cross-cluster-search.md)
 

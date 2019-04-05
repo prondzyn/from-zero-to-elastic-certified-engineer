@@ -14,5 +14,5 @@ description: 'https://training.elastic.co/exam/elastic-certified-engineer#object
 
 {% page-ref page="mappings-and-text-analysis/" %}
 
-{% page-ref page="cluster-administration.md" %}
+{% page-ref page="cluster-administration/" %}
 
